@@ -1,0 +1,4 @@
+hangman-game
+├── index.html
+├── styles.css
+└── script.js
